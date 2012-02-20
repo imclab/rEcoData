@@ -1,0 +1,9 @@
+Package: rEcoData
+Type: Package
+Title: Wrapper for EcologicalData.org
+Version: .01
+Date: 2012-02-20
+Author: Karthik Ram
+Maintainer: Karthik Ram <kram@berkeley.edu>
+Description: Provides access to a variety of published ecological datasets. See http://ecologicaldata.org for more details and to obtain keys.
+License: CCOO
